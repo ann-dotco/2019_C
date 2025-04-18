@@ -1,0 +1,4 @@
+CompileFlags:
+  Compiler: D:\\Env\\msys2\\mingw64\\bin\\arm-none-eabi-gcc.exe
+Diagnostics:
+  UnusedIncludes: None
