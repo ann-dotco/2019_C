@@ -107,6 +107,9 @@ void ADC_FFT(uint16_t ADC_Value[512]) {
     ADC_Value_V[i] = ((float32_t)ADC_Value[i] * 3.30f) / 4095.0f;
   }
 
+
+
+  
 }
 
 void ADC_FFT2(uint16_t ADC_Value2[512]) {
