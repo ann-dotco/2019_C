@@ -1,0 +1,3 @@
+D:/G4CODE/2023_D/build/CMakeFiles/target.elf.dir
+D:/G4CODE/2023_D/build/CMakeFiles/edit_cache.dir
+D:/G4CODE/2023_D/build/CMakeFiles/rebuild_cache.dir

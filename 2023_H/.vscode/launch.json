@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Cortex Debug",
+            "type": "cortex-debug",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "executable": "./build/target.elf",
+            "device": "STM32G431",
+            "servertype": "openocd",
+            "configFiles": [
+                "./openocd.cfg"
+            ],
+            "preLaunchTask": "CMake: build",
+            "svdFile": "STM32G431xx.svd",
+            "showDevDebugOutput": "raw"
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+[
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\app\\Src\\FFT.c.obj -c D:\\G4CODE\\2023_D\\app\\Src\\FFT.c",
+  "file": "D:\\G4CODE\\2023_D\\app\\Src\\FFT.c",
+  "output": "CMakeFiles\\target.elf.dir\\app\\Src\\FFT.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\app\\Src\\font.c.obj -c D:\\G4CODE\\2023_D\\app\\Src\\font.c",
+  "file": "D:\\G4CODE\\2023_D\\app\\Src\\font.c",
+  "output": "CMakeFiles\\target.elf.dir\\app\\Src\\font.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\app\\Src\\oled.c.obj -c D:\\G4CODE\\2023_D\\app\\Src\\oled.c",
+  "file": "D:\\G4CODE\\2023_D\\app\\Src\\oled.c",
+  "output": "CMakeFiles\\target.elf.dir\\app\\Src\\oled.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\main.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\main.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\main.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\main.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\gpio.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\gpio.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\gpio.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\gpio.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\stm32g4xx_it.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\stm32g4xx_it.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\stm32g4xx_it.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\stm32g4xx_it.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\stm32g4xx_hal_msp.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\stm32g4xx_hal_msp.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\stm32g4xx_hal_msp.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\stm32g4xx_hal_msp.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc_ex.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc_ex.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc_ex.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_rcc_ex.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ex.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ex.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ex.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ex.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ramfunc.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ramfunc.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ramfunc.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_flash_ramfunc.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_gpio.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_gpio.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_gpio.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_gpio.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_exti.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_exti.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_exti.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_exti.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma_ex.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma_ex.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma_ex.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_dma_ex.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr_ex.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr_ex.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr_ex.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_pwr_ex.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_cortex.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_cortex.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_cortex.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_cortex.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim_ex.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim_ex.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim_ex.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_tim_ex.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\system_stm32g4xx.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\system_stm32g4xx.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\system_stm32g4xx.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\system_stm32g4xx.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\sysmem.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\sysmem.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\sysmem.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\sysmem.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\syscalls.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\syscalls.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\syscalls.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\syscalls.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\i2c.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\i2c.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\i2c.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\i2c.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\usart.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\usart.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\usart.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\usart.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_i2c.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_i2c.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_i2c.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_i2c.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_i2c_ex.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_i2c_ex.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_i2c_ex.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_i2c_ex.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_uart.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_uart.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_uart.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_uart.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_uart_ex.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_uart_ex.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_uart_ex.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_uart_ex.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\adc.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\adc.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\adc.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\adc.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\tim.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\tim.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\tim.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\tim.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc_ex.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc_ex.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc_ex.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_hal_adc_ex.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_ll_adc.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_ll_adc.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_ll_adc.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Drivers\\STM32G4xx_HAL_Driver\\Src\\stm32g4xx_ll_adc.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -std=c17 -o CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\dma.c.obj -c D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\dma.c",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\Core\\Src\\dma.c",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\Core\\Src\\dma.c.obj"
+},
+{
+  "directory": "D:/G4CODE/2023_D/build",
+  "command": "D:\\Env\\arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -DARM_MATH_CM4 -DSTM32G431xx -DUSE_HAL_DRIVER -ID:/G4CODE/2023_D/app/inc -ID:/G4CODE/2023_D/bsp/inc -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/DSP/Inc -ID:/G4CODE/2023_D/mcu/Core/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc -ID:/G4CODE/2023_D/mcu/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Device/ST/STM32G4xx/Include -ID:/G4CODE/2023_D/mcu/Drivers/CMSIS/Include -O2 -g -DNDEBUG -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -Wall -fdata-sections -ffunction-sections -x assembler-with-cpp -o CMakeFiles\\target.elf.dir\\mcu\\startup_stm32g431xx.s.obj -c D:\\G4CODE\\2023_D\\mcu\\startup_stm32g431xx.s",
+  "file": "D:\\G4CODE\\2023_D\\mcu\\startup_stm32g431xx.s",
+  "output": "CMakeFiles\\target.elf.dir\\mcu\\startup_stm32g431xx.s.obj"
+}
+]
